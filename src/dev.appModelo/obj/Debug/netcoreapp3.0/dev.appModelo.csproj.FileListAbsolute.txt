@@ -1,0 +1,8 @@
+C:\Users\artes\source\repos\appModelo\src\dev.appModelo\obj\Debug\netcoreapp3.0\dev.appModelo.csproj.AssemblyReference.cache
+C:\Users\artes\source\repos\appModelo\src\dev.appModelo\obj\Debug\netcoreapp3.0\dev.appModelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artes\source\repos\appModelo\src\dev.appModelo\obj\Debug\netcoreapp3.0\dev.appModelo.AssemblyInfoInputs.cache
+C:\Users\artes\source\repos\appModelo\src\dev.appModelo\obj\Debug\netcoreapp3.0\dev.appModelo.AssemblyInfo.cs
+C:\Users\artes\source\repos\appModelo\src\dev.appModelo\obj\Debug\netcoreapp3.0\dev.appModelo.csproj.CoreCompileInputs.cache
+C:\Users\artes\source\repos\appModelo\src\dev.appModelo\obj\Debug\netcoreapp3.0\dev.appModelo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\artes\source\repos\appModelo\src\dev.appModelo\obj\Debug\netcoreapp3.0\dev.appModelo.RazorAssemblyInfo.cache
+C:\Users\artes\source\repos\appModelo\src\dev.appModelo\obj\Debug\netcoreapp3.0\dev.appModelo.RazorAssemblyInfo.cs

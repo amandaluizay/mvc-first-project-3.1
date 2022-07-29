@@ -1,4 +1,4 @@
-
+// bundle com o caminho dos arquivos a serem minificados
   [
     {
       "outputFileName": "wwwroot/css/site_bundle.min.css",
